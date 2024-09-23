@@ -1,5 +1,5 @@
 function gretter(myarray, counter) {
-    let greetText = "Hello"
+        let greetText = "Hello"
     for (let index = 0; index < myarray.length; index++) {
         console.log(greetText + myarray[index])
 
